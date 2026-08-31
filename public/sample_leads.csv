@@ -1,0 +1,61 @@
+first_name,last_name,title,company,industry,employee_count,location,email,phone,linkedin_url,source
+Jordan,Coleman,Founder,BrightLabs,SaaS,643,"New York, NY",jordan.coleman@brightlabs.com,+1-200-555-0110,,sample_dataset
+Jordan,Coleman,Founder,BrightLabs,SaaS,,,jordan.coleman@brightlabs.com,,,sample_dataset_rescrape
+Casey,Sawyer,Director of Operations,SummitHealth,E-commerce,881,"Chicago, IL",casey_at_summithealth.com,+1-201-555-0111,https://linkedin.com/in/caseysawyer,sample_dataset
+Drew,Lowe,Software Engineer,BridgeDigital,Fintech,185,"Miami, FL",drew.lowe@bridgedigital.com,,https://linkedin.com/in/drewlowe,sample_dataset
+Quinn,Coleman,Product Manager,SterlingSystems,Healthcare Tech,882,"Austin, TX",quinn.coleman@sterlingsystems.com,+1-203-555-0113,,sample_dataset
+Cameron,Sawyer,VP of Sales,CobaltWorks,Professional Services,686,"San Francisco, CA",cameron.sawyer@cobaltworks.com,+1-204-555-0114,https://linkedin.com/in/cameronsawyer,sample_dataset
+Jordan,Lowe,Sales Manager,AnchorCommerce,Manufacturing,765,"Denver, CO",jordan.lowe@anchorcommerce.com,,https://linkedin.com/in/jordanlowe,sample_dataset
+Casey,Coleman,COO,BrightSolutions,Real Estate,784,"Boston, MA",casey.coleman@brightsolutions.com,+1-206-555-0116,,sample_dataset
+Drew,Sawyer,Founder,SummitPartners,SaaS,529,"New York, NY",drew.sawyer@summitpartners.com,,,sample_dataset
+Quinn,Lowe,Director of Operations,BridgeGroup,E-commerce,171,"Chicago, IL",quinn.lowe@bridgegroup.com,,,sample_dataset
+Cameron,Coleman,Software Engineer,SterlingLabs,Fintech,715,"Miami, FL",cameron.coleman@sterlinglabs.com,+1-209-555-0119,,sample_dataset
+Jordan,Sawyer,Product Manager,CobaltHealth,Healthcare Tech,93,"Austin, TX",jordan.sawyer@cobalthealth.com,,,sample_dataset
+Casey,Lowe,VP of Sales,AnchorDigital,Professional Services,248,"San Francisco, CA",casey.lowe@anchordigital.com,+1-211-555-0121,,sample_dataset
+Casey,Lowe,VP of Sales,AnchorDigital,Professional Services,,,casey.lowe@anchordigital.com,,,sample_dataset_rescrape
+Drew,Coleman,Sales Manager,BrightSystems,Manufacturing,608,"Denver, CO",drew.coleman@brightsystems.com,+1-212-555-0122,https://linkedin.com/in/drewcoleman,sample_dataset
+Quinn,Sawyer,COO,SummitWorks,Real Estate,71,"Boston, MA",quinn.sawyer@summitworks.com,,,sample_dataset
+Cameron,Lowe,Founder,BridgeCommerce,SaaS,795,"New York, NY",cameron.lowe@bridgecommerce.com,+1-214-555-0124,https://linkedin.com/in/cameronlowe,sample_dataset
+Jordan,Coleman,Director of Operations,SterlingSolutions,E-commerce,875,"Chicago, IL",jordan.coleman@sterlingsolutions.com,,https://linkedin.com/in/jordancoleman,sample_dataset
+Casey,Sawyer,Software Engineer,CobaltPartners,Fintech,27,"Miami, FL",casey.sawyer@cobaltpartners.com,,,sample_dataset
+Drew,Lowe,Product Manager,AnchorGroup,Healthcare Tech,119,"Austin, TX",drew.lowe@anchorgroup.com,+1-217-555-0127,https://linkedin.com/in/drewlowe,sample_dataset
+Quinn,Coleman,VP of Sales,BrightLabs,Professional Services,699,"San Francisco, CA",quinn.coleman@brightlabs.com,+1-218-555-0128,,sample_dataset
+Cameron,Sawyer,Sales Manager,SummitHealth,Manufacturing,412,"Denver, CO",cameron.sawyer@summithealth.com,+1-219-555-0129,,sample_dataset
+Jordan,Lowe,COO,BridgeDigital,Real Estate,505,"Boston, MA",jordan.lowe@bridgedigital.com,,,sample_dataset
+Casey,Coleman,Founder,SterlingSystems,SaaS,443,"New York, NY",casey.coleman@sterlingsystems.com,+1-221-555-0131,https://linkedin.com/in/caseycoleman,sample_dataset
+Drew,Sawyer,Director of Operations,CobaltWorks,E-commerce,721,"Chicago, IL",drew.sawyer@cobaltworks.com,,https://linkedin.com/in/drewsawyer,sample_dataset
+Drew,Sawyer,Director of Operations,CobaltWorks,E-commerce,,,drew.sawyer@cobaltworks.com,,,sample_dataset_rescrape
+Quinn,Lowe,Software Engineer,AnchorCommerce,Fintech,199,"Miami, FL",quinn.lowe@anchorcommerce.com,+1-223-555-0133,https://linkedin.com/in/quinnlowe,sample_dataset
+Cameron,Coleman,Product Manager,BrightSolutions,Healthcare Tech,439,"Austin, TX",cameron.coleman@brightsolutions.com,+1-224-555-0134,https://linkedin.com/in/cameroncoleman,sample_dataset
+Jordan,Sawyer,VP of Sales,SummitPartners,Professional Services,531,"San Francisco, CA",jordan.sawyer@summitpartners.com,,https://linkedin.com/in/jordansawyer,sample_dataset
+Casey,Lowe,Sales Manager,BridgeGroup,Manufacturing,688,"Denver, CO",casey.lowe@bridgegroup.com,,https://linkedin.com/in/caseylowe,sample_dataset
+Drew,Coleman,COO,SterlingLabs,Real Estate,57,"Boston, MA",drew.coleman@sterlinglabs.com,,,sample_dataset
+Quinn,Sawyer,Founder,CobaltHealth,SaaS,600,"New York, NY",quinn.sawyer@cobalthealth.com,+1-228-555-0138,,sample_dataset
+Cameron,Lowe,Director of Operations,AnchorDigital,E-commerce,620,"Chicago, IL",cameron.lowe@anchordigital.com,+1-229-555-0139,https://linkedin.com/in/cameronlowe,sample_dataset
+Jordan,Coleman,Software Engineer,BrightSystems,Fintech,566,"Miami, FL",,,,sample_dataset
+Casey,Sawyer,Product Manager,SummitWorks,Healthcare Tech,245,"Austin, TX",casey.sawyer@summitworks.com,+1-231-555-0141,,sample_dataset
+Drew,Lowe,VP of Sales,BridgeCommerce,Professional Services,111,"San Francisco, CA",drew.lowe@bridgecommerce.com,,https://linkedin.com/in/drewlowe,sample_dataset
+Quinn,Coleman,Sales Manager,SterlingSolutions,Manufacturing,749,"Denver, CO",quinn.coleman@sterlingsolutions.com,,https://linkedin.com/in/quinncoleman,sample_dataset
+Quinn,Coleman,Sales Manager,SterlingSolutions,Manufacturing,,,quinn.coleman@sterlingsolutions.com,,,sample_dataset_rescrape
+Cameron,Sawyer,COO,CobaltPartners,Real Estate,160,"Boston, MA",,+1-234-555-0144,https://linkedin.com/in/cameronsawyer,sample_dataset
+Jordan,Lowe,Founder,AnchorGroup,SaaS,195,"New York, NY",jordan.lowe@anchorgroup.com,+1-235-555-0145,https://linkedin.com/in/jordanlowe,sample_dataset
+Casey,Coleman,Director of Operations,BrightLabs,E-commerce,561,"Chicago, IL",casey_at_brightlabs.com,+1-236-555-0146,https://linkedin.com/in/caseycoleman,sample_dataset
+Drew,Sawyer,Software Engineer,SummitHealth,Fintech,622,"Miami, FL",drew.sawyer@summithealth.com,+1-237-555-0147,https://linkedin.com/in/drewsawyer,sample_dataset
+Quinn,Lowe,Product Manager,BridgeDigital,Healthcare Tech,863,"Austin, TX",,+1-238-555-0148,,sample_dataset
+Cameron,Coleman,VP of Sales,SterlingSystems,Professional Services,123,"San Francisco, CA",cameron.coleman@sterlingsystems.com,+1-239-555-0149,,sample_dataset
+Jordan,Sawyer,Sales Manager,CobaltWorks,Manufacturing,700,"Denver, CO",jordan.sawyer@cobaltworks.com,+1-240-555-0150,,sample_dataset
+Casey,Lowe,COO,AnchorCommerce,Real Estate,711,"Boston, MA",,+1-241-555-0151,https://linkedin.com/in/caseylowe,sample_dataset
+Drew,Coleman,Founder,BrightSolutions,SaaS,232,"New York, NY",drew.coleman@brightsolutions.com,+1-242-555-0152,,sample_dataset
+Quinn,Sawyer,Director of Operations,SummitPartners,E-commerce,22,"Chicago, IL",quinn.sawyer@summitpartners.com,+1-243-555-0153,https://linkedin.com/in/quinnsawyer,sample_dataset
+Cameron,Lowe,Software Engineer,BridgeGroup,Fintech,36,"Miami, FL",cameron.lowe@bridgegroup.com,+1-244-555-0154,https://linkedin.com/in/cameronlowe,sample_dataset
+Cameron,Lowe,Software Engineer,BridgeGroup,Fintech,,,cameron.lowe@bridgegroup.com,,,sample_dataset_rescrape
+Jordan,Coleman,Product Manager,SterlingLabs,Healthcare Tech,800,"Austin, TX",,+1-245-555-0155,https://linkedin.com/in/jordancoleman,sample_dataset
+Casey,Sawyer,VP of Sales,CobaltHealth,Professional Services,663,"San Francisco, CA",casey.sawyer@cobalthealth.com,,https://linkedin.com/in/caseysawyer,sample_dataset
+Drew,Lowe,Sales Manager,AnchorDigital,Manufacturing,413,"Denver, CO",drew.lowe@anchordigital.com,+1-247-555-0157,https://linkedin.com/in/drewlowe,sample_dataset
+Quinn,Coleman,COO,BrightSystems,Real Estate,431,"Boston, MA",quinn.coleman@brightsystems.com,+1-248-555-0158,https://linkedin.com/in/quinncoleman,sample_dataset
+Cameron,Sawyer,Founder,SummitWorks,SaaS,231,"New York, NY",cameron.sawyer@summitworks.com,+1-249-555-0159,https://linkedin.com/in/cameronsawyer,sample_dataset
+Jordan,Lowe,Director of Operations,BridgeCommerce,E-commerce,267,"Chicago, IL",,+1-250-555-0160,,sample_dataset
+Casey,Coleman,Software Engineer,SterlingSolutions,Fintech,253,"Miami, FL",casey.coleman@sterlingsolutions.com,,,sample_dataset
+Drew,Sawyer,Product Manager,CobaltPartners,Healthcare Tech,231,"Austin, TX",drew.sawyer@cobaltpartners.com,,https://linkedin.com/in/drewsawyer,sample_dataset
+Quinn,Lowe,VP of Sales,AnchorGroup,Professional Services,103,"San Francisco, CA",quinn.lowe@anchorgroup.com,+1-253-555-0163,https://linkedin.com/in/quinnlowe,sample_dataset
+Cameron,Coleman,Sales Manager,BrightLabs,Manufacturing,408,"Denver, CO",cameron.coleman@brightlabs.com,+1-254-555-0164,https://linkedin.com/in/cameroncoleman,sample_dataset

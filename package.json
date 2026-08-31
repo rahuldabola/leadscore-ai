@@ -1,0 +1,16 @@
+{
+  "name": "leadscore-ai",
+  "version": "1.0.0",
+  "description": "AI-powered lead scoring, enrichment, and outreach layer for lead generation tools",
+  "main": "server/app.js",
+  "scripts": {
+    "start": "node server/app.js",
+    "seed": "node server/seed.js"
+  },
+  "engines": {
+    "node": ">=22.5.0"
+  },
+  "dependencies": {
+    "express": "^4.21.0"
+  }
+}
